@@ -16,10 +16,12 @@ Weather App é um projeto desenvolvido como parte dos estudos na plataforma [Cod
 - [Open-Meteo API](https://open-meteo.com)
 - [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org/)
 
+### Projeto
+[Atividade passo a passo](https://www.codedex.io/projects/view-weather-with-html-css-js)
+![Imagem do site](caminho/para/WeatherApp.png)
+
+
 ***
-
 Desenvolvido junto ao [Codedex](https://www.codedex.io/) e finalizado por Wergiley Oliveira.
-[1](https://www.codedex.io/projects/view-weather-with-html-css-js)
-
 ***
 
