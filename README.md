@@ -18,7 +18,11 @@ Weather App é um projeto desenvolvido como parte dos estudos na plataforma [Cod
 
 ### Projeto
 [Atividade passo a passo](https://www.codedex.io/projects/view-weather-with-html-css-js)
-![Imagem do site](caminho/para/WeatherApp.png)
+- Imagem do projeto:
+<p align="center">
+  <img src="WeatherApp.png" alt="Preview do App" width="600"/>
+</p>
+
 
 
 ***
