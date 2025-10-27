@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <main>
+    <section id="weather-wrapper">
+      <h1>Weather App</h1>
+      <form id="weather-search" autocomplete="off" onsubmit="event.preventDefault(); fetchWeather();">
+        <label for="search" class="sr-only">Pesquisar cidade</label>
+        <input id="search" type="text" placeholder="Search by city" autocomplete="off" />
+        <input id="submit" type="submit" value="Search" />
+      </form>
+      <div id="weather-data" style="display: none;"></div>
+    </section>
+  </main>
+  <footer>
+    <p>Developed by Wergiley Oliveira</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
